@@ -8,8 +8,7 @@
   },
   "dependencies": {
     "vue": "^3.0.5",
-    "vue-router": "^4.0.8",
-    "vuetify": "^2.5.0"
+    "vue-router": "^4.0.8"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^1.2.2",
