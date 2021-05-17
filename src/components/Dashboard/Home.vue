@@ -1,7 +1,6 @@
 <template>
-  <div id="counter">
-    Counter: {{ counter }}
-  </div>
+  <h1>Testando Home!</h1>
+  <router-link to="/hello">Go to Home</router-link>
 </template>
 
 <script setup>
